@@ -1,131 +1,114 @@
-# Hi there 👋, I'm Mohamed
+# Hi there 👋 I'm Mohamed
 
-## Software Engineering Student | Full-Stack Developer 
+<h3 align="center">
+Software Engineering Student • Backend Developer
+</h3>
 
-I'm a Software Engineering student passionate about building production-ready software, scalable backend systems, cloud infrastructure, and AI-powered applications.
-
-I enjoy solving complex engineering problems by combining software development, DevOps, automation, and artificial intelligence. My goal is to become an engineer capable of designing, developing, deploying, and maintaining complete software ecosystems.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 📞 Building a production-ready Power Dialer using Laravel and Twilio
-- 🤖 Exploring practical AI integrations for real-world applications
-- ☁️ Learning advanced DevOps, Kubernetes, Docker, CI/CD, and Infrastructure Automation
-- 🏠 Building a self-hosted homelab for experimentation and production-like deployments
+<p align="center">
+Building production-ready software, scalable backend systems, AI-powered applications, and cloud infrastructure.
+</p>
 
 ---
 
-## 💡 Interests
+## 🚀 About Me
 
-- Artificial Intelligence
-- DevOps Engineering
-- Cloud Infrastructure
-- System Design
-- Backend Development
-- Distributed Systems
-- Automation
-- Self-Hosting
-- Open Source
+- 🎓 Software Engineering Student
+- 💻 Passionate about Backend Development & System Design
+- 🤖 Building AI-powered applications and automation tools
+- ☁️ Learning DevOps, Kubernetes, Docker & Cloud Infrastructure
+- 🏠 Building my own self-hosted homelab
+- 🚀 Always building projects that solve real-world problems
+
+---
+
+## ⚡ Currently Working On
+
+- 📞 Production Power Dialer using Laravel & Twilio
+- 🤖 AI integrations for production applications
+- ☁️ DevOps & Infrastructure Automation
+- 🧠 Local AI with Ollama & LLMs
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- PHP
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- JAVA
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
 
 ### Frontend
-- React
-- React Native
-- Flutter
-- TailwindCSS
-- HTML
-- CSS
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+---
 
 ### Backend
-- Laravel
-- SpringBoot
-- Node.js
-- Express
-- REST APIs
-- WebSockets
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
 
 ### Databases
-- MySQL
-- PostgreSQL
-- Appwrite
-- Sanity CMS
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity)
+
+---
 
 ### DevOps
-- Docker
-- Docker Compose
-- Linux
-- Git
-- GitHub Actions
-- Nginx (Learning)
-- Kubernetes (Learning)
-- Terraform (Learning)
 
-### AI & Automation
-- Ollama
-- Local LLMs
-- AI Agents
-- Workflow Automation
-- Prompt Engineering
-
-### Payment Integration
-- PayPal
-- Stripe
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform)
 
 ---
 
-## 🎯 What Drives Me
+### AI
 
-I love building software that goes beyond tutorials and prototypes.
-
-Whether it's an AI platform, a DevOps automation tool, or a large-scale backend system, I enjoy understanding how everything works under the hood and turning ideas into reliable, production-ready solutions.
-
-I believe great software is not only about writing code—it's about architecture, scalability, maintainability, automation, and delivering real value.
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge)
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- Kubernetes
-- Infrastructure as Code
-- Advanced Laravel Architecture
-- AI Agents
-- Distributed Systems
-- High Availability Systems
+![](https://github-readme-stats.vercel.app/api?username=Mohamed-Slaoui&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Slaoui&theme=tokyonight)
 
-## 📈 2026 Goals
-
-- Build production-grade SaaS applications
-- Master DevOps Engineering
-- Deploy scalable AI applications
-- Contribute to Open Source
-- Build projects that solve real business problems
-- Continuously improve software architecture and system design skills
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Slaoui&layout=compact&theme=tokyonight)
 
 ---
 
-## ⚡ Fun Facts
+## 🎯 2026 Goals
 
-- I enjoy learning by building.
-- I prefer production projects over toy examples.
-- I like understanding how systems work internally.
-- I'm always looking for ways to automate repetitive work.
-- I enjoy challenging projects that push me outside my comfort zone.
+- 🚀 Build production-grade SaaS products
+- ☁️ Master DevOps Engineering
+- 🤖 Build AI-powered platforms
+- 🏗️ Design scalable backend architectures
+- 🌍 Contribute to Open Source
 
 ---
 
-> "First make it work. Then make it scalable. Then make it elegant."
+## 💭 Philosophy
+
+> **First make it work. Then make it scalable. Then make it elegant.**
